@@ -1,3 +1,4 @@
+package OOP;
 
 class Animal{
 	void walk(){
